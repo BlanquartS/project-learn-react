@@ -1,2 +1,18 @@
 # project-learn-react
  Projet pour apprendre React
+
+Création d'une application de suivi de dépenses.
+
+Grâce à cette application j'ai pu apprendre :
+
+1) React Basicq & Working with components
+2) React states & Events
+3) Rendering Lists & Conditional Content
+4) Styling React Components
+5) Debugging React Apps
+6) Working with forms & User Input
+
+Point a aborder pas encore réaliser : 
+6) Handling side effects, using reducers & using the context api.
+7) Sending Http Request
+8) Next.js
