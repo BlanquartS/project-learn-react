@@ -1,5 +1,11 @@
 # project-learn-react
  Projet pour apprendre React
+ 
+ Pour lancer le projet il faut tout simplement lancer : 
+ 
+ npm install
+ npm start
+-------------------------------------------------------------------------------------------------------------- 
 
 Création d'une application de suivi de dépenses.
 
