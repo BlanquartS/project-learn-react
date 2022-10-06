@@ -13,6 +13,7 @@ Grâce à cette application j'ai pu apprendre :
 6) Working with forms & User Input
 
 Point a aborder pas encore réaliser : 
+
 7) Handling side effects, using reducers & using the context api.
 8) Sending Http Request
 9) Next.js
